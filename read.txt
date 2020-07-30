@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B6FB-99B7
+
+ Directory of C:\Users\Nagaraj\Desktop\workspot\selenium\javagitint\src\javagitint
+
+07/30/2020  04:51 PM    <DIR>          .
+07/30/2020  04:51 PM    <DIR>          ..
+07/30/2020  03:49 PM               480 hello.class
+07/30/2020  10:20 AM               226 hello.java
+07/30/2020  04:51 PM               158 read.txt
+               3 File(s)            864 bytes
+               2 Dir(s)  24,932,966,400 bytes free
